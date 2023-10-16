@@ -1,9 +1,14 @@
 {
-    "name": "wild/app",
+    "name": "laura/composer_02",
     "autoload": {
         "psr-4": {
-            "Wild\\App\\": "src/"
+            "App\\": "src/"
         }
     },
+    "authors": [
+        {
+            "name": "laura w"
+        }
+    ],
     "require": {}
 }
